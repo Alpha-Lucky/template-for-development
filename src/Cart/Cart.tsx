@@ -1,5 +1,5 @@
 import CartItem from '../CartItem/CartItem';
-import { Wrapper } from './Cart.styles';
+import { Wrapper } from './Cart.styled';
 import { CartItemType } from '../App';
 
 type Props = {

@@ -2,7 +2,6 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import App from './App';
 import { QueryClient, QueryClientProvider } from 'react-query';
-import './index.module.css'
 
 const client = new QueryClient();
 
