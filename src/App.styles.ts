@@ -15,9 +15,10 @@ export const StyledButton = styled(IconButton)`
 `;
 
 export const DrawerC = styled(Drawer)`
+
 `
 export const WrapperDrawer = styled.div`
-width: 100%;
+max-width: 70vw;
 min-height: 150%;
 background-color: #fff;
 `
